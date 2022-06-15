@@ -1,0 +1,1426 @@
+# depslib dependency file v1.0
+1541297567 source:d:\seba programacion\prog ii\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1541297326 d:\seba programacion\prog ii\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1541102644 d:\seba programacion\prog ii\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1541102662 d:\seba programacion\prog ii\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541102640 source:d:\seba programacion\prog ii\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1541102648 source:d:\seba programacion\prog ii\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+	"peliculas.h"
+	"usuarios.h"
+
+1541102650 d:\seba programacion\prog ii\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1541102628 source:d:\seba programacion\prog ii\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1541102630 d:\seba programacion\prog ii\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1541102660 source:d:\seba programacion\prog ii\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1541297423 source:d:\seba programacion\prog ii\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1541102638 d:\seba programacion\prog ii\tpfinallabii\menuprincilal.h
+	"string.h"
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"listaEnlazada.h"
+	"peliculasVistas.h"
+	"usuarios.h"
+	"peliculas.h"
+
+1541293450 d:\seba programacion\prog ii\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1541102634 source:d:\seba programacion\prog ii\tpfinallabii\menuprincilal.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+
+1541102652 source:d:\seba programacion\prog ii\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1540698639 source:d:\seba programacion\respaldo\prog ii\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1540698704 d:\seba programacion\respaldo\prog ii\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1540695201 d:\seba programacion\respaldo\prog ii\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1540249749 d:\seba programacion\respaldo\prog ii\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540591323 source:d:\seba programacion\respaldo\prog ii\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1540592408 d:\seba programacion\respaldo\prog ii\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1540696256 source:d:\seba programacion\respaldo\prog ii\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+
+1540423944 d:\seba programacion\respaldo\prog ii\tpfinallabii\menuprincilal.h
+	"string.h"
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"listaEnlazada.h"
+	"peliculasVistas.h"
+	"usuarios.h"
+	"peliculas.h"
+
+1540312750 d:\seba programacion\respaldo\prog ii\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1540312996 d:\seba programacion\respaldo\prog ii\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1540698577 source:d:\seba programacion\respaldo\prog ii\tpfinallabii\menuprincilal.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+
+1540696193 source:d:\seba programacion\respaldo\prog ii\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1540225021 source:d:\seba programacion\respaldo\prog ii\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+	"peliculas.h"
+	"usuarios.h"
+
+1540423829 source:d:\seba programacion\respaldo\prog ii\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1540224107 source:d:\seba programacion\respaldo\prog ii\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1541284046 source:c:\users\alumno\desktop\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1541284048 c:\users\alumno\desktop\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1541284058 c:\users\alumno\desktop\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1541284076 c:\users\alumno\desktop\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541284052 source:c:\users\alumno\desktop\tpfinallabii\menuprincilal.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+
+1541284054 c:\users\alumno\desktop\tpfinallabii\menuprincilal.h
+	"string.h"
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"listaEnlazada.h"
+	"peliculasVistas.h"
+	"usuarios.h"
+	"peliculas.h"
+
+1541636298 c:\users\alumno\desktop\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1541634121 c:\users\alumno\desktop\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1541284062 c:\users\alumno\desktop\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1541636667 source:c:\users\alumno\desktop\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1541284060 source:c:\users\alumno\desktop\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+	"peliculas.h"
+	"usuarios.h"
+
+1541634121 source:c:\users\alumno\desktop\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1541284072 source:c:\users\alumno\desktop\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1541636742 source:c:\users\alumno\desktop\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1541637159 source:c:\users\alumno\desktop\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1541715247 source:c:\users\alumno\downloads\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1541619566 c:\users\alumno\downloads\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1541619588 c:\users\alumno\downloads\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1541619604 c:\users\alumno\downloads\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541619574 source:c:\users\alumno\downloads\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1541619576 c:\users\alumno\downloads\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1541619578 source:c:\users\alumno\downloads\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1541619582 c:\users\alumno\downloads\tpfinallabii\menuprincilal.h
+	"string.h"
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"listaEnlazada.h"
+	"peliculasVistas.h"
+	"usuarios.h"
+	"peliculas.h"
+
+1541619594 c:\users\alumno\downloads\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1541619590 c:\users\alumno\downloads\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1541619580 source:c:\users\alumno\downloads\tpfinallabii\menuprincilal.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+
+1541619584 source:c:\users\alumno\downloads\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1541619588 source:c:\users\alumno\downloads\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+	"peliculas.h"
+	"usuarios.h"
+
+1541619592 source:c:\users\alumno\downloads\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1541619602 source:c:\users\alumno\downloads\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542320311 source:f:\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542319880 f:\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542325397 f:\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542325397 f:\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542325872 source:f:\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542323670 f:\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1542325397 f:\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542325395 f:\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"peliculasVistas.h"
+	"ArbolesTDA.h"
+
+1542317234 f:\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542322550 source:f:\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542320243 source:f:\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542322258 source:f:\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542325413 source:f:\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542325529 source:f:\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542325116 source:f:\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+
+1541102618 source:f:\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1541102616 f:\tpfinallabii\gotoxy.h
+
+1542324740 source:g:\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542323271 g:\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542320154 g:\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542320668 g:\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541102618 source:g:\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542320311 source:g:\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542319880 g:\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542324391 source:g:\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542323670 g:\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1541102616 g:\tpfinallabii\gotoxy.h
+
+1542324027 g:\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"peliculasVistas.h"
+	"ArbolesTDA.h"
+
+1542317234 g:\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542321746 source:g:\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542322550 source:g:\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542320243 source:g:\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542324117 source:g:\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+
+1542322258 source:g:\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1541102618 source:f:\15-11\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542320311 source:f:\15-11\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542319880 f:\15-11\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542325397 f:\15-11\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542380184 f:\15-11\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542390004 source:f:\15-11\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542387624 f:\15-11\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1541102616 f:\15-11\tpfinallabii\gotoxy.h
+
+1542388153 f:\15-11\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542377510 f:\15-11\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"peliculasVistas.h"
+	"ArbolesTDA.h"
+
+1542317234 f:\15-11\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542320243 source:f:\15-11\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542390256 source:f:\15-11\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1542391250 source:f:\15-11\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542391248 source:f:\15-11\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542388682 source:f:\15-11\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542389657 source:f:\15-11\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542377168 source:f:\15-11\tpfinallabii\enkriptado.c
+	"enkriptado.h"
+
+1542377152 f:\15-11\tpfinallabii\enkriptado.h
+	<time.h>
+
+1542393950 source:d:\seba programacion\respaldo\15-11\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542393473 d:\seba programacion\respaldo\15-11\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542373776 d:\seba programacion\respaldo\15-11\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542373800 d:\seba programacion\respaldo\15-11\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542373754 source:d:\seba programacion\respaldo\15-11\tpfinallabii\enkriptado.c
+	"enkriptado.h"
+
+1542373756 d:\seba programacion\respaldo\15-11\tpfinallabii\enkriptado.h
+	<time.h>
+
+1542373758 source:d:\seba programacion\respaldo\15-11\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542373762 source:d:\seba programacion\respaldo\15-11\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542373764 d:\seba programacion\respaldo\15-11\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542373766 source:d:\seba programacion\respaldo\15-11\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542373770 d:\seba programacion\respaldo\15-11\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1542373760 d:\seba programacion\respaldo\15-11\tpfinallabii\gotoxy.h
+
+1542373784 d:\seba programacion\respaldo\15-11\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"peliculasVistas.h"
+	"ArbolesTDA.h"
+
+1542373780 d:\seba programacion\respaldo\15-11\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542394421 source:d:\seba programacion\respaldo\15-11\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542373772 source:d:\seba programacion\respaldo\15-11\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542373778 source:d:\seba programacion\respaldo\15-11\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542373782 source:d:\seba programacion\respaldo\15-11\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1542373796 source:d:\seba programacion\respaldo\15-11\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542377748 source:c:\users\rodri\music\más actualizado\tpfinallabii\enkriptado.c
+	"enkriptado.h"
+
+1542377750 c:\users\rodri\music\más actualizado\tpfinallabii\enkriptado.h
+	<time.h>
+
+1542377752 source:c:\users\rodri\music\más actualizado\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542377756 source:c:\users\rodri\music\más actualizado\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542377758 c:\users\rodri\music\más actualizado\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542377770 c:\users\rodri\music\más actualizado\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542377790 c:\users\rodri\music\más actualizado\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542377766 source:c:\users\rodri\music\más actualizado\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542377772 source:c:\users\rodri\music\más actualizado\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542377774 c:\users\rodri\music\más actualizado\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542377776 source:c:\users\rodri\music\más actualizado\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1542377778 c:\users\rodri\music\más actualizado\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"peliculasVistas.h"
+	"ArbolesTDA.h"
+
+1542397064 c:\users\rodri\music\más actualizado\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542377788 source:c:\users\rodri\music\más actualizado\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542499955 source:f:\más actualizado\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542495281 f:\más actualizado\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542498761 f:\más actualizado\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542499314 f:\más actualizado\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542377748 source:f:\más actualizado\tpfinallabii\enkriptado.c
+	"enkriptado.h"
+
+1542377750 f:\más actualizado\tpfinallabii\enkriptado.h
+	<time.h>
+
+1542377752 source:f:\más actualizado\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542377756 source:f:\más actualizado\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542377758 f:\más actualizado\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542495070 source:f:\más actualizado\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542506408 f:\más actualizado\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1542377754 f:\más actualizado\tpfinallabii\gotoxy.h
+
+1542504655 f:\más actualizado\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"peliculasVistas.h"
+	"ArbolesTDA.h"
+
+1542377774 f:\más actualizado\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542505413 source:f:\más actualizado\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542498764 source:f:\más actualizado\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542377772 source:f:\más actualizado\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542505075 source:f:\más actualizado\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1542499314 source:f:\más actualizado\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542515467 source:d:\seba programacion\respaldo\versión 0.98\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542515355 d:\seba programacion\respaldo\versión 0.98\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542488608 d:\seba programacion\respaldo\versión 0.98\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542488612 d:\seba programacion\respaldo\versión 0.98\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542488602 source:d:\seba programacion\respaldo\versión 0.98\tpfinallabii\enkriptado.c
+	"enkriptado.h"
+
+1542488602 d:\seba programacion\respaldo\versión 0.98\tpfinallabii\enkriptado.h
+	<time.h>
+
+1542488602 source:d:\seba programacion\respaldo\versión 0.98\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542523047 source:d:\seba programacion\respaldo\versión 0.98\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542519876 d:\seba programacion\respaldo\versión 0.98\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542521174 source:d:\seba programacion\respaldo\versión 0.98\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542508553 d:\seba programacion\respaldo\versión 0.98\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1542488602 d:\seba programacion\respaldo\versión 0.98\tpfinallabii\gotoxy.h
+
+1542519210 d:\seba programacion\respaldo\versión 0.98\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+
+1542517435 d:\seba programacion\respaldo\versión 0.98\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542515700 source:d:\seba programacion\respaldo\versión 0.98\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542488606 source:d:\seba programacion\respaldo\versión 0.98\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542517434 source:d:\seba programacion\respaldo\versión 0.98\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542520778 source:d:\seba programacion\respaldo\versión 0.98\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1542512482 source:d:\seba programacion\respaldo\versión 0.98\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542558116 source:c:\users\rodri\desktop\versión 0.98\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542505324 c:\users\rodri\desktop\versión 0.98\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542505328 c:\users\rodri\desktop\versión 0.98\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542554744 c:\users\rodri\desktop\versión 0.98\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542505324 source:c:\users\rodri\desktop\versión 0.98\tpfinallabii\enkriptado.c
+	"enkriptado.h"
+
+1542505324 c:\users\rodri\desktop\versión 0.98\tpfinallabii\enkriptado.h
+	<time.h>
+
+1542505324 source:c:\users\rodri\desktop\versión 0.98\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542505324 source:c:\users\rodri\desktop\versión 0.98\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542505324 c:\users\rodri\desktop\versión 0.98\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542552815 source:c:\users\rodri\desktop\versión 0.98\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542505328 c:\users\rodri\desktop\versión 0.98\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1542505324 c:\users\rodri\desktop\versión 0.98\tpfinallabii\gotoxy.h
+
+1542555035 c:\users\rodri\desktop\versión 0.98\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+
+1542505328 c:\users\rodri\desktop\versión 0.98\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542505328 source:c:\users\rodri\desktop\versión 0.98\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542505328 source:c:\users\rodri\desktop\versión 0.98\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542557959 source:c:\users\rodri\desktop\versión 0.98\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1542554465 source:c:\users\rodri\desktop\versión 0.98\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542557354 source:c:\users\rodri\desktop\versión 0.98\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542137567 source:c:\users\rodri\desktop\versión 0.99\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542137553 c:\users\rodri\desktop\versión 0.99\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542505328 c:\users\rodri\desktop\versión 0.99\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542554744 c:\users\rodri\desktop\versión 0.99\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542505324 source:c:\users\rodri\desktop\versión 0.99\tpfinallabii\enkriptado.c
+	"enkriptado.h"
+
+1542505324 c:\users\rodri\desktop\versión 0.99\tpfinallabii\enkriptado.h
+	<time.h>
+
+1542505324 source:c:\users\rodri\desktop\versión 0.99\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542138410 source:c:\users\rodri\desktop\versión 0.99\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542138379 c:\users\rodri\desktop\versión 0.99\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542137994 source:c:\users\rodri\desktop\versión 0.99\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542505328 c:\users\rodri\desktop\versión 0.99\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1542505324 c:\users\rodri\desktop\versión 0.99\tpfinallabii\gotoxy.h
+
+1542137739 c:\users\rodri\desktop\versión 0.99\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+
+1542505328 c:\users\rodri\desktop\versión 0.99\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542140537 source:c:\users\rodri\desktop\versión 0.99\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542505328 source:c:\users\rodri\desktop\versión 0.99\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542505328 source:c:\users\rodri\desktop\versión 0.99\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542554465 source:c:\users\rodri\desktop\versión 0.99\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542137759 source:c:\users\rodri\desktop\versión 0.99\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1542579054 source:d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542579056 d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542579086 d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542579110 d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542579058 source:d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\enkriptado.c
+	"enkriptado.h"
+
+1542579062 d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\enkriptado.h
+	<time.h>
+
+1542579064 source:d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542654067 source:d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542654067 d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542679102 source:d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542672512 d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1542579066 d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\gotoxy.h
+
+1542680414 d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+
+1542579090 d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542681405 source:d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542646246 source:d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542579088 source:d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542680414 source:d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1542579106 source:d:\seba programacion\respaldo\chamorro1811\versión 0.98\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542663838 source:c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542684083 c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542663842 c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542663846 c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542683795 source:c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\enkriptado.c
+	"enkriptado.h"
+
+1542663838 c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\enkriptado.h
+	<time.h>
+
+1542663838 source:c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542663838 source:c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542663838 c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542663838 source:c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542663840 c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1542663838 c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\gotoxy.h
+
+1542684153 c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+
+1542663842 c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542663838 source:c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542663842 source:c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542663842 source:c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542684328 source:c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1542663846 source:c:\users\vichu\desktop\version 0,99pre\versión 0.98\tpfinallabii\usuarios.c
+	"usuarios.h"
+
+1542666548 source:d:\seba programacion\respaldo\tpfinallabii\arbolestda.c
+	"ArbolesTDA.h"
+
+1542666550 d:\seba programacion\respaldo\tpfinallabii\arbolestda.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1542666554 d:\seba programacion\respaldo\tpfinallabii\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+
+1542666556 d:\seba programacion\respaldo\tpfinallabii\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542666550 source:d:\seba programacion\respaldo\tpfinallabii\enkriptado.c
+	"enkriptado.h"
+
+1542666550 d:\seba programacion\respaldo\tpfinallabii\enkriptado.h
+	<time.h>
+
+1542666550 source:d:\seba programacion\respaldo\tpfinallabii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542666550 source:d:\seba programacion\respaldo\tpfinallabii\listaenlazada.c
+	"listaEnlazada.h"
+
+1542666550 d:\seba programacion\respaldo\tpfinallabii\listaenlazada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1542666548 source:d:\seba programacion\respaldo\tpfinallabii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuPrincilal.h"
+	<time.h>
+
+1542666552 d:\seba programacion\respaldo\tpfinallabii\menuprincilal.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"gotoxy.h"
+	"usuarios.h"
+	"peliculas.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+	"TDAARREGLO.h"
+	"peliculasVistas.h"
+
+1542666550 d:\seba programacion\respaldo\tpfinallabii\gotoxy.h
+
+1542666552 d:\seba programacion\respaldo\tpfinallabii\tdaarreglo.h
+	<stdlib.h>
+	<stdio.h>
+	"usuarios.h"
+	"listaEnlazada.h"
+	"ArbolesTDA.h"
+
+1542666554 d:\seba programacion\respaldo\tpfinallabii\peliculasvistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"peliculas.h"
+
+1542686471 source:d:\seba programacion\respaldo\tpfinallabii\menuprincilal.c
+	"menuPrincilal.h"
+
+1542666554 source:d:\seba programacion\respaldo\tpfinallabii\peliculas.c
+	"peliculas.h"
+
+1542666554 source:d:\seba programacion\respaldo\tpfinallabii\peliculasvistas.c
+	"peliculasVistas.h"
+
+1542686995 source:d:\seba programacion\respaldo\tpfinallabii\tdaarreglo.c
+	"TDAARREGLO.h"
+	"usuarios.h"
+	"listaEnlazada.h"
+
+1542666556 source:d:\seba programacion\respaldo\tpfinallabii\usuarios.c
+	"usuarios.h"
+
